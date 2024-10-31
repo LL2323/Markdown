@@ -14,10 +14,10 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 | Birthday: | December 18, 2018 |
 | Breed: | Black Labrador |
 
- - Parents: Unknown (Adopted)
- - Best Friend: You!
- - Favorite Treats: Chicken!!
- - Favorite Season: Summer!
+ - **Parents:** Unknown (Adopted)
+ - **Best Friend:** You!
+ - **Favorite Treats:** Chicken!!
+ - **Favorite Season:** Summer!
 
 ### If you want to know more about me you can find my breed on the wiki:
 https://en.wikipedia.org/wiki/Labrador_Retriever
