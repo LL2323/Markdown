@@ -21,5 +21,3 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### If you want to know more about me you can find my breed on the wiki:
 https://en.wikipedia.org/wiki/Labrador_Retriever
-
-##Wanna see me as a puppy?
