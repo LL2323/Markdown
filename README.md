@@ -16,7 +16,7 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
  - **Parents:** Unknown (Adopted)
  - **Best Friend:** You!
- - **Favorite Treats:** Chicken!!
+ - **Favorite Treat:** Chicken!!
  - **Favorite Season:** Summer!
 
 ### If you want to know more about me you can find my breed on the wiki:
