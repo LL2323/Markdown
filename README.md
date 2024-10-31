@@ -23,4 +23,4 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 https://en.wikipedia.org/wiki/Labrador_Retriever
 
 ## Click to See Me as a Puppy:
-[ Click Here! ](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)
+[ Click Here! ](https://github.com/LL2323/Markdown/blob/main/puppy.md)
