@@ -1,5 +1,6 @@
 # Hi! My Name is Toro! Welcome to My Page!
 <img src="https://github.com/LL2323/Markdown/blob/main/20210328_172249.jpg" width="350">
+<img src="https://github.com/LL2323/Markdown/blob/main/20181223_143121.jpg" width="150">
 
 ## A Little Bit About Me
 
@@ -9,7 +10,12 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### Some Details About Me
 
- - Birthday: | December 18, 2018
+ - Birthday: December 18, 2018
+ - Breed: Black Labrador
+ - Parents: Unknown (Adopted)
+ - Best Friend: You!
+ - Favorite Treats: Chicken!!
+ - Favorite Season: Summer!
 
 ### If you want to know more about me you can find my breed on the wiki:
 https://en.wikipedia.org/wiki/Labrador_Retriever
