@@ -24,3 +24,6 @@ https://en.wikipedia.org/wiki/Labrador_Retriever
 
 ## Click to See Me as a Puppy:
 [ (Click Here!) ](https://github.com/LL2323/Markdown/blob/main/puppy.md)
+
+## Wanna Know Whats on my Mind?:
+[ (Click Here to Find Out!) ](https://github.com/LL2323/Markdown/blob/main/puppy.md)
