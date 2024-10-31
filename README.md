@@ -9,6 +9,7 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### Some Details About Me
 
+| Item | Description |
 | ----------- | ----------- |
 | Birthday: | December 18, 2018 |
 | Breed: | Black Labrador |
