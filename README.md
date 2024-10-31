@@ -9,13 +9,10 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### Some Details About Me
 
-| Birthday: December 18, 2018 |
+| Birthday: | December 18, 2018 |
+| ----------- | ----------- |
+| Breed: | Black Labrador |
 
-| Syntax | Description |
-| Header | Title |
-| Paragraph | Text |
-
- - Breed: Black Labrador
  - Parents: Unknown (Adopted)
  - Best Friend: You!
  - Favorite Treats: Chicken!!
