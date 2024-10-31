@@ -1,7 +1,7 @@
 # Hi! My Name is Toro! Welcome to My Page!
 <img src="https://github.com/LL2323/Markdown/blob/main/20210328_172249.jpg" width="350">
 
-## A Little Bit About Me
+## **A Little Bit About Me**
 
 I am 6 year old Female, Black Labrador. I live on a farm with my favorite family the Minears. 
 
