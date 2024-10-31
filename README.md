@@ -1,4 +1,4 @@
 # Hi! My Name is Toro!
-![](https://github.com/LL2323/Markdown/blob/main/20210328_172249.jpg = 250x250)
+![](https://github.com/LL2323/Markdown/blob/main/20210328_172249.jpg {width=40px height=400px})
 
 ## A Little Bit About Me
