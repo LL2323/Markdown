@@ -1,6 +1,6 @@
 # Hi! My Name is Toro! Welcome to My Page!
 <img src="https://github.com/LL2323/Markdown/blob/main/20210328_172249.jpg" width="350">
-<img src="https://github.com/LL2323/Markdown/blob/main/20181223_143121.jpg" width="350">
+<img src="https://github.com/LL2323/Markdown/blob/main/20181223_143121.jpg" width="600">
 
 ## A Little Bit About Me
 
