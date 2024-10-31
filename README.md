@@ -9,7 +9,7 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### Some Details About Me
 
- - Birthday: December 18, 2018
+| Birthday: December 18, 2018 |
  - Breed: Black Labrador
  - Parents: Unknown (Adopted)
  - Best Friend: You!
@@ -18,3 +18,5 @@ I’m a loyal, friendly dog and always ready for an adventure. I love going outs
 
 ### If you want to know more about me you can find my breed on the wiki:
 https://en.wikipedia.org/wiki/Labrador_Retriever
+
+##Wanna see me as a puppy?
